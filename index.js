@@ -14,7 +14,7 @@ app.use(express.static("assets"));
 
 var contactList=[
     {
-        Name:"Himanshu",
+        Name:"Himanshu Otakuu",
         Number:"8967345781"
     },
     {
